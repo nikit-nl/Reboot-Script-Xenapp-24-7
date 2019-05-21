@@ -1,3 +1,5 @@
+#Just a mokup file for functions
+
         Function Sent-Message
         {
             param( [string]$VDA, [string]$Time)
